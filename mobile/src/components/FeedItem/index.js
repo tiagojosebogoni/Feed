@@ -53,7 +53,7 @@ export default function FeedItem({ feed }) {
         </TouchableOpacity>
 
         <TouchableOpacity style={{ marginLeft: 20 }} onPress={() => {}}>
-          <Icon name="heart-o" size={20} color="#8f5de8" />
+          <Icon name="share-alt" size={20} color="#8f5de8" />
         </TouchableOpacity>
       </ActionPost>
     </Container>
